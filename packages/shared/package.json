@@ -117,7 +117,7 @@
     "@opentelemetry/sdk-trace-base": "^2.9.0",
     "@prisma/client": "^6.19.3",
     "@react-email/components": "^0.5.1",
-    "@react-email/render": "^1.2.1",
+    "@react-email/render": "^2.1.0",
     "@slack/oauth": "3.0.5",
     "@slack/web-api": "^7.15.0",
     "@smithy/node-http-handler": "4.5.1",

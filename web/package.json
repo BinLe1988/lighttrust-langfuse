@@ -199,7 +199,7 @@
     "@vitejs/plugin-react": "^4.7.0",
     "@vitest/browser-playwright": "4.1.8",
     "dockerode": "^4.0.9",
-    "dotenv": "^16.6.1",
+    "dotenv": "^17.4.2",
     "dotenv-cli": "^7.4.2",
     "dotenv-expand": "^10.0.0",
     "eslint": "^9.39.2",

@@ -51,7 +51,7 @@
     "csv-parse": "^5.6.0",
     "dd-trace": "5.109.0",
     "decimal.js": "^10.4.3",
-    "dotenv": "^16.4.5",
+    "dotenv": "^17.4.2",
     "exponential-backoff": "^3.1.2",
     "express": "^5.2.1",
     "helmet": "^7.1.0",
